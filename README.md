@@ -23,7 +23,7 @@ The skill helps you:
 
 I often start projects by talking through an idea in an AI chat. Building was rarely the main problem. The harder problem was deciding what deserved to be built, whether anyone would pay for it, how small the first version should be, and what needed to happen before I could honestly call it launched.
 
-I found a summary of Chris Guillebeau's book *Side Hustle: From Idea to Income in 27 Days*. Three ideas stood out:
+After reading Chris Guillebeau's book *Side Hustle: From Idea to Income in 27 Days*. Three ideas stood out:
 
 1. A side hustle should be feasible, profitable, and persuasive.
 2. An idea becomes an offer through a promise, a pitch, and a price.
