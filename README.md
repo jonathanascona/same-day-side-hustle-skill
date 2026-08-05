@@ -4,6 +4,10 @@ Turn a rough income idea into a focused offer, a practical validation plan, and 
 
 The skill evaluates whether an idea is feasible, profitable, and persuasive. It then narrows the concept into something that can be sold or tested today, creates the offer and basic economics, designs the launch path, and optionally prepares an MVP build plan.
 
+## A very serious test
+
+![The skill responding to an extremely realistic business request](assets/funny-test.png)
+
 ## What it does
 
 The skill helps you:
@@ -23,7 +27,7 @@ The skill helps you:
 
 I often start projects by talking through an idea in an AI chat. Building was rarely the main problem. The harder problem was deciding what deserved to be built, whether anyone would pay for it, how small the first version should be, and what needed to happen before I could honestly call it launched.
 
-I found a summary of Chris Guillebeau's book *Side Hustle: From Idea to Income in 27 Days*. Three ideas stood out:
+After reading Chris Guillebeau's book *Side Hustle: From Idea to Income in 27 Days*. Three ideas stood out:
 
 1. A side hustle should be feasible, profitable, and persuasive.
 2. An idea becomes an offer through a promise, a pitch, and a price.
