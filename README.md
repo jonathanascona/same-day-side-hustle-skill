@@ -4,6 +4,10 @@ Turn a rough income idea into a focused offer, a practical validation plan, and 
 
 The skill evaluates whether an idea is feasible, profitable, and persuasive. It then narrows the concept into something that can be sold or tested today, creates the offer and basic economics, designs the launch path, and optionally prepares an MVP build plan.
 
+## A very serious test
+
+![The skill responding to an extremely realistic business request](assets/funny-test.png)
+
 ## What it does
 
 The skill helps you:
